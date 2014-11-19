@@ -1,4 +1,4 @@
-PDO Database Class
+PDO Database Class BANNA
 ============================
 
 A database class for PHP-MySQL which uses the PDO extension.
